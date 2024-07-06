@@ -1,0 +1,23 @@
+.image{
+    
+    
+    width: 246px;
+    height: 138px;
+}
+.videoRow{
+    display: flex;
+    column-gap: 14px;
+    margin-top: 20px;
+    
+}
+.headline{
+    font-size: 14px;
+    color: #606060;
+}
+.description{
+    font-size: 14px;
+    color: #606060;
+}
+.subs{
+    color: blue;
+}

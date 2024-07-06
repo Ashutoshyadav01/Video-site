@@ -1,0 +1,14 @@
+.videoCard{
+    margin-right: 20px;
+    margin-bottom: 10px;
+    
+}
+.video-info{
+    display: flex;
+}
+.video-text > h4 {
+    font-size: 14px;
+}
+.video-text > p{
+    color:grey;
+}
